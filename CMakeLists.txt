@@ -13,7 +13,6 @@ add_library(VCAN2515 OBJECT
         Arduino/Arduino.h
         Arduino/Streaming.h
         Arduino/SPI.h
-        Arduino/Wire.h
         Arduino/EEPROM.h
         Arduino/ACAN2515.h
 
